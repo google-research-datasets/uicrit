@@ -5,7 +5,7 @@ UICrit is a dataset containing human-generated natural language design critiques
 ## Description
 
 All the data can be found in the CSV file: uicrit_public.csv<br/>
-Each row contains data provided by one human annotator, and each UI Screen was evaluated by three annotators.
+Each row contains data provided by one human annotator, and each UI Screen was evaluated by three annotators.<br/>
 The columns in the CSV file are as follows:
 - “rico_id”: The corresponding Screen ID from the [RICO dataset](http://www.interactionmining.org/rico.html), which can be used to get the Mobile UI screenshot
 - “task”: The main task that the UI screen is designed for
