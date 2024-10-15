@@ -1,6 +1,6 @@
 # UICrit Dataset
 
-UICrit is a dataset containing human-generated natural language design critiques, corresponding bounding boxes for each critique, and design quality ratings for 1,000 mobile UIs from [RICO](http://www.interactionmining.org/rico.html). This dataset was collected for our UIST '24 paper: [https://arxiv.org/abs/2407.08850](https://arxiv.org/abs/2407.08850).
+UICrit is a dataset containing human-generated natural language design critiques, corresponding bounding boxes for each critique, and design quality ratings for 1,000 mobile UIs from [RICO](http://www.interactionmining.org/rico.html). This dataset was collected for our UIST '24 paper: [https://dl.acm.org/doi/10.1145/3654777.3676381](https://dl.acm.org/doi/10.1145/3654777.3676381).
 
 ## Description
 
