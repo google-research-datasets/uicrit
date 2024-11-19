@@ -18,3 +18,15 @@ The columns in the CSV file are as follows:
 - “comments”: A list of design comments for the UI screen. Each comment also includes bounding box coordinates for its relevant region in the UI screenshot. The bounding box coordinates are normalized by the screenshot's dimensions. The source for each comment (human, llm, or both) can be found at its corresponding list index in “comments_source”.
 
 Note that this version of the dataset is around 3 times larger than the one discussed in the paper, where each UI screen was evaluated by a single human annotater. This larger version of the dataset contains 11,344 design critiques. 
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
