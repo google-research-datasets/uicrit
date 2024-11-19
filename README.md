@@ -20,8 +20,6 @@ The columns in the CSV file are as follows:
 Note that this version of the dataset is around 3 times larger than the one discussed in the paper, where each UI screen was evaluated by a single human annotater. This larger version of the dataset contains 11,344 design critiques. 
 
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
